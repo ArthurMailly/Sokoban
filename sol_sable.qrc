@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Ressources">
+        <file>sol_sable.qrc</file>
+    </qresource>
+</RCC>

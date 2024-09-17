@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bob2.png</file>
+        <file>bobfond.jpg</file>
+        <file>caisse.png</file>
+        <file>sol_herbe.jpg</file>
+        <file>sol_sable.png</file>
+        <file>Bravo.png</file>
+        <file>bob_debut.png</file>
+        <file>regles_bob.jpeg</file>
+        <file>Patrick_perso.png</file>
+        <file>Carlos_perso.png</file>
+        <file>Gary_perso2.png</file>
+        <file>Capitaine_crabs_perso.png</file>
+        <file>sandy_perso.png</file>
+        <file>Plankton_perso.png</file>
+        <file>arthur_perso2.png</file>
+        <file>manon_perso.png</file>
+    </qresource>
+</RCC>
